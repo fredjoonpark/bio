@@ -1,6 +1,8 @@
-## Hello world 
+## Hey, Fred here.
 
-My name is Fred and sometimes I like to make things in my free time - check it out!
+
+
+I like makin shit - check it out!
 
 
 #### Some tunes I'm working on nowadays:
