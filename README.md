@@ -11,3 +11,9 @@ here are some things I dabble in in my free time, enjoy!!
 
 ##### a small webapp I had some fun with that generates a schedule for you based on the things you want to get done:
 - [alfred](http://alfredsagenda.com/)
+
+##### ever wonder how much faster a computer can solve sudoku? 
+- [sudoku solver](https://github.com/fredjoonpark/Sudoku-Solver)
+
+##### a jupyter notebook machine-learning demo/presentation
+- [to default or not to default](https://github.com/fredjoonpark/machine-learning/blob/master/jupyter_demos/default_analysis.ipynb)
