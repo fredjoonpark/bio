@@ -10,7 +10,6 @@ here are some things I dabble in in my free time, enjoy!!
 
 ##### some tunes I've been working on:
 - [youtube link](https://www.youtube.com/channel/UCh-lXULbfN2T1v0lofAqkeQ)
-- [soundcloud link](https://soundcloud.com/koreanjesuus/)
 
 ##### ever wonder how much faster a computer can solve sudoku? 
 - [sudoku solver](https://github.com/fredjoonpark/Sudoku-Solver)
