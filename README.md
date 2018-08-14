@@ -1,17 +1,17 @@
 ## Fred Park
 
 
-#### welcome to my page.
+#### welcome to my page!
 
-here are some things I dabble in in my free time, enjoy!!
+here are some things I dabble in in my free time, enjoy :)
 
-##### had some fun building a webapp that generates a schedule for you based on the things you want to get done:
-- [alfred](http://alfredsagenda.com/)
-
-##### some tunes I've been working on:
+##### some tunes I've worked on:
 - [youtube link](https://www.youtube.com/channel/UCh-lXULbfN2T1v0lofAqkeQ)
 
-##### ever wonder how much faster a computer can solve sudoku? 
+##### built a webapp that generates a schedule for you based on things you want to get done:
+- [alfred](http://alfredsagenda.com/)
+
+##### ever wonder how much faster a computer can solve sudoku than you? 
 - [sudoku solver](https://github.com/fredjoonpark/Sudoku-Solver)
 
 ##### a jupyter notebook machine-learning demo/presentation
