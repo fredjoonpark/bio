@@ -16,3 +16,6 @@ here are some things I dabble in in my free time, enjoy :)
 
 ##### a jupyter notebook machine-learning demo/presentation
 - [to default or not to default](https://github.com/fredjoonpark/machine-learning/blob/master/jupyter_demos/default_analysis.ipynb)
+
+##### like reading?
+- [some articles I've enjoyed](https://github.com/fredjoonpark/bio/tree/master/articles)
