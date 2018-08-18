@@ -1,9 +1,9 @@
 ## Fred Park
 
 
-#### welcome to my page!
+#### welcome to my page
 
-here are some things I dabble in in my free time, enjoy :)
+I like to dabble in different things in my free time, enjoy!
 
 ##### some tunes I've worked on:
 - [youtube link](https://www.youtube.com/channel/UCh-lXULbfN2T1v0lofAqkeQ)
