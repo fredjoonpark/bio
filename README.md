@@ -8,7 +8,7 @@ I like to dabble in different things in my free time, enjoy!
 ##### some tunes I've worked on:
 - [youtube link](https://www.youtube.com/channel/UCh-lXULbfN2T1v0lofAqkeQ)
 
-##### built a webapp that generates a schedule for you based on things you want to get done:
+##### a webapp that generates a schedule for you based on things you want to get done:
 - [alfred](http://alfredsagenda.com/)
 
 ##### ever wonder how much faster a computer can solve sudoku than you? 
