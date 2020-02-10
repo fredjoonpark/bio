@@ -1,7 +1,7 @@
 ## Fred Park
 
 
-#### some things I've been spending some time on
+#### some things I've been spending my time on :)
 
 ##### sort your music with
 - [songsort](https://sortyoursongs.com)
