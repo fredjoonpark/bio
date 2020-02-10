@@ -1,7 +1,7 @@
 ## Fred Park
 
 
-#### welcome to my page
+#### some things I've been spending some time on
 
 ##### sort your music with
 - [songsort](https://sortyoursongs.com)
